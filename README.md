@@ -1,3 +1,5 @@
+![AccessLens](docs/banner.png)
+
 # AccessLens
 
 Auditoría de cuentas de usuario: cruza los accesos de varios sistemas con la nómina y muestra quién conserva permisos que ya no debería tener.
