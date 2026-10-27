@@ -1,0 +1,10 @@
+node_modules/
+.taste-skill/
+
+# Exportes y secretos: nunca se versionan
+.env
+.env.*
+*.pem
+*.key
+*.xlsx
+*.csv

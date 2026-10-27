@@ -1,0 +1,12 @@
+{
+  "name": "accesslens",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Auditoría y depuración de cuentas de usuario entre varios sistemas. Frontend puro, sin servidor.",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "serve": "node tools/serve.mjs"
+  },
+  "license": "MIT"
+}
